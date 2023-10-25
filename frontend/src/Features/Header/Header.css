@@ -1,0 +1,21 @@
+Link {
+   margin-right: 200px;
+}
+
+#navbarNavAltMarkup {
+    margin-left: 600px;
+}
+
+#loter{
+    margin-left: 200px
+}
+
+@media screen and (max-width:770px) {
+    #navbarNavAltMarkup {
+        margin-left: 50px;
+    }
+    
+    #loter{
+        margin-left: 20px
+    }
+}
